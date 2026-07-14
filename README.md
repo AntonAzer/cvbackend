@@ -4,12 +4,7 @@ Node.js/Express API backed by Supabase Postgres. Replaces the old front-end-only
 `localStorage` "database" and fake auth with real hashed-password auth (JWT +
 bcrypt), a `cvs` table, and a `payments` table.
 
-## ⚠️ Before anything else
 
-If you shared your Supabase database password anywhere outside your own local
-`.env` file (chat, a doc, a public repo, etc.), **rotate it now**:
-Supabase Dashboard → Project Settings → Database → Reset database password.
-Then update `DATABASE_URL` below with the new one.
 
 ## Setup
 
