@@ -1,5 +1,9 @@
 # CVCraft Pro — Backend
 
+
+**Security Badge !!**
+
+
 **[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=AntonAzer_cvbackend)](https://sonarcloud.io/summary/new_code?id=AntonAzer_cvbackend)**
 
 ## Front-End Repo is [CVCraft-Pro](https://github.com/AntonAzer/CVCraft-Pro)
