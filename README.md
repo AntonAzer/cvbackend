@@ -1,4 +1,7 @@
 # CVCraft Pro — Backend
+
+**[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=AntonAzer_cvbackend)](https://sonarcloud.io/summary/new_code?id=AntonAzer_cvbackend)**
+
 ## Front-End Repo is [CVCraft-Pro](https://github.com/AntonAzer/CVCraft-Pro)
 Node.js/Express API backed by Supabase Postgres. Replaces the old front-end-only
 `localStorage` "database" and fake auth with real hashed-password auth (JWT +
